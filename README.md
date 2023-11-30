@@ -6,7 +6,7 @@ game with WebSocket connectivity for real time server to client communication.
 ## Quickstart
 
 1. Clone this repository.
-    * `git clone https://github.com/uofa-cmput404/nodejs-ws-lab.git`
+    * `git clone https://github.com/uofa-cmput404/nodejs-ws-lab8.git`
 2. Change the working directory into this directory
     * `cd nodejs-ws-lab`
 3. Install the node dependencies.
